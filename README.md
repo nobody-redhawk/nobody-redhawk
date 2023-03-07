@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👋 Hi, I’m Wilmer Gulcochia
+- 🌱 Bachelor of Agricultural Sciences
+- ⚡ With knowledge in html, css.
+- 👀 I'am learning Javascript and Python
+- 📫 I'am a front-end student at Alura Latam
+- 📫 How to reach me: 
+     - :email: karlwgs1989@gmail.com.
+     - Linkedin: https://www.linkedin.com/in/wilmer-gulcochia-sanchez/
+     - Twitter: https://twitter.com/misterio1989w
+     - Instagram: https://www.instagram.com/bruerastefania

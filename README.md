@@ -23,4 +23,4 @@ Here are some ideas to get you started:
      - :email: karlwgs1989@gmail.com.
      - Linkedin: https://www.linkedin.com/in/wilmer-gulcochia-sanchez/
      - Twitter: https://twitter.com/misterio1989w
-     - Instagram: https://www.instagram.com/bruerastefania
+     - Instagram: ###

@@ -27,3 +27,29 @@
 - Linkedin: https://www.linkedin.com/in/wilmer-gulcochia-sanchez/
 - Twitter: https://twitter.com/misterio1989w
 - Instagram: https://www.instagram.com/wigusa/
+
+
+# Esto son los 5 comandos mas usados
+
+| Comando | Descripción             |
+|---------|-------------------------|
+| cd      | cambia entre directorios |
+| ls      | lista el contenido de un directorio |
+| git     | Software de control de versiones |
+| sudo    | Sirve para elevar privilegios temporalmente |
+| mkdir   | Crea un directorio o subdirectorio |
+
+# Alias mas usados
+
+```
+md='mkdir -p'
+mostused='history | awk '\''{print $2}'\'' | sort | uniq -c | sort -nr | head -n 10'
+npmd='npm run dev'
+npms='npm start'
+ohmyzsh='cd ~/.oh-my-zsh'
+rd=rmdir
+rm=trash
+sl=ls
+which-command=whence
+zshconfig='nano ~/.zshrc'
+```
